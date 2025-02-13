@@ -1,2 +1,10 @@
-*
-!.gitignore
+# Image files
+*.png
+*.svg
+
+# .mat files
+neg_door_square.mat
+pos_door_square.mat
+
+# Targeted directories
+doorImageDS/*
