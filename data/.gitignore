@@ -6,5 +6,7 @@
 neg_door_square.mat
 pos_door_square.mat
 
-# Targeted directories
-doorImageDS/*
+# Targeted files
+test.txt
+train.txt
+val.txt
